@@ -1,0 +1,6 @@
+Create a class to write a csv file class that handles exception for file not
+found error and unable to write file error.
+You need to create a website on the AFS to show what you did and push it to
+GitHub. Remember that you should submit links on the Moodle.
+
+Submit a link to your github repository and a link to the working code on AFS.
